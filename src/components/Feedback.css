@@ -1,0 +1,20 @@
+h2 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+p {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.feedback {
+  display: flex;
+  flex-direction: column;
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
